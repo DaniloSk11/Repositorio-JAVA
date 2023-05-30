@@ -1,0 +1,88 @@
+1.A Saneago – Companhia de Saneamento de Goiás deseja desenvolver
+um algoritmo para calcular e emitir suas boletos de cobrança, para tanto
+contratou seus serviços. A empresa possui um total de 100
+consumidores em três classes de consumidores diferentes:
+
+1. Classe A – os que consomem até 200 m3 de água por mês;
+2. Classe B – os que consomem de 201 à 400 m3 de água por mês;
+3. Classe C – os que consomem acima de 400 m3 de água por mês;
+
+A classe A paga R$0,50 por m3 de água consumido por mês, a classe B
+paga R$0,85 por m3 de água consumido por mês e a classe C paga
+R$1,50 por m3 de água consumido por mês.
+
+A taxa de esgoto é de 5% para a classe A, 10% para a classe B e 20%
+para a classe C. A taxa e calculada em função do valor da conta.
+O governo do estado de Goiás cobra 16% de ICMS sobre o valor total da
+conta.
+
+Os seguintes dados são fornecidos:
+I. Código do consumidor;
+II. Nome do consumidor;
+III. Endereço do consumidor;
+IV. Consumo do mês em m3;
+V. Ano da instalação do registro.
+Calcule e escreva os seguintes itens:
+I. A conta de cada um dos consumidores;
+II. total de ICMS arrecado pelo estado de Goiás
+III. nome e endereço do maior consumidor da classe B;
+IV. nome e endereço do menor consumidor da classe A;
+V. total arrecadado pela Saneago;
+VI. A média de consumo de água de todos os consumidores.
+
+------
+
+2. Numa certa loja de eletrodomésticos, o comerciário encarregado da
+seção de televisores recebe, mensalmente, um salário fixo mais
+comissão. Essa comissão é calculada em relação ao tipo e ao número de
+televisores vendidos por mês, obedecendo à tabela abaixo:
+
+Sabe-se, ainda, que ele tem um desconto de 8% sobre seu salário fixo
+para o INSS.
+Se o seu salário total (fixo + comissões – INSS) for maior ou igual a R$
+3.000,00 ele ainda terá um desconto de 5%, sobre esse salário total, relativo
+ao imposto de renda retido na fonte.
+
+Sabendo-se que existem 20 empregados nesta seção, leia o valor do
+salário fixo e, para cada comerciário, o número de sua inscrição, o número de
+televisores a cores e o número de televisores preto e branco vendidos;
+calcule e escreva o número de inscrição de cada empregado, seu salário
+bruto e seu salário líquido.
+
+------
+
+3. Fazer um algoritmo que imprima toda a tabuada de multiplicar 1 a 9.
+
+------
+
+4. Fazer um algoritmo que imprima todos os números perfeitos entre 1 e
+1000. Número perfeito é aquele cuja soma de seus divisores, exceto ele
+próprio, é igual ao número. Exemplo: 6 é um número perfeito porque 1 +
+2 + 3 = 6.
+TIPO
+
+N.o DE
+TELEVISORES
+VENDIDOS
+
+COMISSÕES
+
+a cores maior ou igual a 10
+menor do que 10
+
+R$ 100,00 por televisor
+vendido
+
+R$ 50,00 por televisor vendido
+
+preto e branco maior ou igual a 20
+menor do que 20
+
+R$ 40,00 por televisor vendido
+R$ 20,00 por televisor vendido
+
+------
+
+5. Número primo é aquele que somente é divisível por ele mesmo e pela
+unidade. Fazer um algoritmo que imprima todos os números primos entre
+1 e 100.
